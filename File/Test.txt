@@ -1,0 +1,7 @@
+There is a ticket counter where people come, take tickets and go.
+People enter a line (queue) to get to the Ticket Counter in an organized manner.
+The person to enter the queue first, will get the ticket first and leave the queue.
+The person entering the queue next will get the ticket after the person in front of him
+In this way, the person entering the queue last will the tickets last
+Therefore, the First person to enter the queue gets the ticket 
+first and the Last person to enter the queue gets the ticket last.
